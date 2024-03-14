@@ -1,0 +1,21 @@
+.box-model{
+    display: flex;
+    align-items:flex-start;
+    width: 60%;
+    height: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    background-image:url(nature.jpg);
+    color: #f7f5f9;
+    text-align: center;
+    background-size: cover;
+    margin: 50px auto;
+    border: 3px solid blue;
+    padding: 20px 30px;
+    border-radius: 30px;
+    font-size: 25px;
+ box-shadow: 10px 20px 8px blueviolet;
+
+
+
+}
